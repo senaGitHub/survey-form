@@ -1,4 +1,4 @@
-# Survey Form 📝
+# 📝 Survey Form 
 
 This project is a survey form designed to gather feedback from users about a platform. Users can provide their name, email, age, and current role, as well as share their thoughts on platform improvements and features they'd like to see enhanced.
 
@@ -14,7 +14,7 @@ This project is a survey form designed to gather feedback from users about a pla
   - Suggestions for improvements
   - Additional comments
 
-### Features 🌟
+### Features
 
 - **Responsive Design**: The form is designed to work well on all devices.
 - **User-friendly Interface**: The form is laid out in an easy-to-use manner.
@@ -22,37 +22,37 @@ This project is a survey form designed to gather feedback from users about a pla
 - **Checkbox and Dropdown Menus**: Allows users to select options from multiple checkboxes and dropdowns.
 - **Reusability**: The form is easily adaptable for any kind of web application.
 
-## Setup 🛠️
+## 🛠️ Setup 
 
-### 1. Download the Files 📥
+### 1. Download the Files
 To start, simply download these two files (HTML and CSS) to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/survey-form.git
+git clone https://github.com/senaGitHub/survey-form.git
 ```
-### 2. Open the Files 💻
+### 2. Open the Files
 Open the `survey-form.html` file in your preferred web browser to view the form.
 
 ```bash
 open survey-form.html
 ```
 
-### 3. View in Browser 🌐
+### 3. View in Browser
 Simply open the form in a web browser to view and interact with the interface.
 
-## Technologies ⚙️
+## ⚙️Technologies 
 
 - **HTML5**: For the basic structure of the web page.
 - **CSS3**: For styling and layout.
 - **JavaScript (Future additions)**: For making the user interactions more dynamic.
 
-## Contributing 🤝
+## Contributing
 This project is open source! If you'd like to contribute, follow these steps:
 
-1. Fork the repository 🍴.
-2. Create a new branch 🌱.
-3. Make your changes and test them 🧪.
-4. Submit a pull request 📥.
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and test them.
+4. Submit a pull request.
 
 ## License 📝
 This project is licensed under the MIT License. See the LICENSE file for more details.
